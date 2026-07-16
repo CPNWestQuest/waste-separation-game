@@ -1,1 +1,1 @@
-# waste-separation-game
+Update game and Google Sheets reporting
