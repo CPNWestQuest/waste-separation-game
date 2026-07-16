@@ -1,1 +1,2 @@
-Update game and Google Sheets reporting
+Update Google Sheets connection
+
